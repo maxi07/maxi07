@@ -1,4 +1,6 @@
 ## Hi there 👋
+My Name is Max - coding in my free time on tools, that simplify my personal and work life. 
+Love to code in Python and solving real life problems 🌎.
 
 <!--
 **maxi07/maxi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
